@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Banner LinkedIn" src="https://github.com/user-attachments/assets/0b791378-070a-4069-befe-a1e1fbb7d3ca" />
+
 # Salut, je suis Aghiles Belkalem 👋
 
 Je suis **développeur full-stack** passionné par la création d'applications web robustes et modernes. J'aime relever des défis techniques et je suis constamment à la recherche de solutions innovantes. Mon objectif est de contribuer à des projets ambitieux, en mettant mes compétences en **React**, **Node.js**, **Express**, et **TypeScript** au service de projets stimulants.
