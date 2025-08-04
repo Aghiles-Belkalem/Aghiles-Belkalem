@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Banner LinkedIn" src="BLack Minimalist Corporate Staff Identity LinkedIn Banner (12).png)" />
+<img width="1584" height="396" alt="Banner LinkedIn" src="https://github.com/user-attachments/assets/0b791378-070a-4069-befe-a1e1fbb7d3ca" />
 
 # Salut, je suis Aghiles Belkalem 👋
 
